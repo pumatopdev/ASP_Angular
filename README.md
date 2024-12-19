@@ -5,7 +5,3 @@
 # Rename appsettings.example.json
 
 > Rename appsettings.example.json to appsettings.json and put your own values
-
-# Follow the course
-
-Follow the course on https://www.udemy.com/build-an-app-with-aspnet-core-and-angular-from-scratch/
